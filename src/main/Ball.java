@@ -8,7 +8,7 @@ public class Ball {
 	int width;
 	int height;
 	int level;
-	int move = 250;
+	int move = 260;
 	
 	public Ball( int arrPosX, int arrPosY, int width, int height, int level) {
 		this.arrPosX = arrPosX;
